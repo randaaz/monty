@@ -104,14 +104,14 @@ julien@ubuntu:~/monty$
 
 #### Example:
 ```bash
-julien@ubuntu:~/monty$ cat bytecodes/06.m 
+julien@ubuntu:~/monty$ cat bytecodes/06.m
 push 1
 pint
 push 2
 pint
 push 3
 pint
-julien@ubuntu:~/monty$ ./monty bytecodes/06.m 
+julien@ubuntu:~/monty$ ./monty bytecodes/06.m
 1
 2
 3
@@ -128,7 +128,7 @@ julien@ubuntu:~/monty$
 
 #### Example:
 ```bash
-julien@ubuntu:~/monty$ cat bytecodes/07.m 
+julien@ubuntu:~/monty$ cat bytecodes/07.m
 push 1
 push 2
 push 3
@@ -139,7 +139,7 @@ pop
 pall
 pop
 pall
-julien@ubuntu:~/monty$ ./monty bytecodes/07.m 
+julien@ubuntu:~/monty$ ./monty bytecodes/07.m
 3
 2
 1
