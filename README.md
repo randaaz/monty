@@ -187,14 +187,14 @@ julien@ubuntu:~/monty$
 
 #### Example:
 ```bash
-julien@ubuntu:~/monty$ cat bytecodes/12.m 
+julien@ubuntu:~/monty$ cat bytecodes/12.m
 push 1
 push 2
 push 3
 pall
 add
 pall
-julien@ubuntu:~/monty$ ./monty bytecodes/12.m 
+julien@ubuntu:~/monty$ ./monty bytecodes/12.m
 3
 2
 1
